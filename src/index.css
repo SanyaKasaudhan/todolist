@@ -10,7 +10,7 @@
 .main_div{
   width: 100%;
   height: 100vh;
-  background: #414e63;
+  background: #999718;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -22,17 +22,17 @@
   width: 25%;
   height: 80vh;
   background-color: aliceblue;
-  box-shadow: 5px 5px 25px -5px rgba(0,0,0,0.5);
+  box-shadow: 5px 5px 25px -5px rgba(32, 95, 13, 0.6);
   border-radius: 15px;
 }
 
 h1{
   color:aliceblue;
   background: transparent;
-  background-color: #8566aa;
+  background-color: #6a8a21;
   padding: 6px 0 2px 0;
   margin-bottom: 10px;
-  box-shadow: 5px 5px 15px -5px rgba(0,0,0,0.3);
+  box-shadow: 5px 5px 15px -5px rgba(60, 138, 29, 0.3);
 }
 
 input{
@@ -44,7 +44,7 @@ input{
   font-size: 20px;
   font-weight: 500;
   width: 60%;
-  border-bottom: 2px solid #8566aa;
+  border-bottom: 2px solid #6a8a21;
   outline: none;
 }
 button{
@@ -52,7 +52,7 @@ button{
   width: 14%;
   border-radius: 50%;
   border-color: transparent;
-  background-color: #8566aa;
+  background-color: #6a8a21;
   color: aliceblue;
   font-size: 40px;
   border: none;
@@ -76,7 +76,7 @@ ol li{
   min-height: 400;
   display: flex;
   align-items: center;
-  color: #8566aa;
+  color: #6a8a21;
   text-transform: capitalize;
 }
 .todo_style{
@@ -92,7 +92,7 @@ ol li{
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #8566aa;
+  background-color: #6a8a21;
   border-radius: 50%;
   margin: 0 15 0 35px;
   color: aliceblue;
