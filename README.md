@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project is basically a to-do list where you can write your schedule for a day and delete it when completed so as to know what all things are been completed.
+
 ## Available Scripts
 
 In the project directory, you can run:
